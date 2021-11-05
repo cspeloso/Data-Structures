@@ -1,0 +1,7 @@
+C:\Users\cpeloso\Desktop\github\Data-Structures\Data-Structures\bin\Debug\Data-Structures.exe.config
+C:\Users\cpeloso\Desktop\github\Data-Structures\Data-Structures\bin\Debug\Data-Structures.exe
+C:\Users\cpeloso\Desktop\github\Data-Structures\Data-Structures\bin\Debug\Data-Structures.pdb
+C:\Users\cpeloso\Desktop\github\Data-Structures\Data-Structures\obj\Debug\Data-Structures.csproj.AssemblyReference.cache
+C:\Users\cpeloso\Desktop\github\Data-Structures\Data-Structures\obj\Debug\Data-Structures.csproj.CoreCompileInputs.cache
+C:\Users\cpeloso\Desktop\github\Data-Structures\Data-Structures\obj\Debug\Data-Structures.exe
+C:\Users\cpeloso\Desktop\github\Data-Structures\Data-Structures\obj\Debug\Data-Structures.pdb
